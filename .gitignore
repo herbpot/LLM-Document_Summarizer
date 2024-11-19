@@ -1,0 +1,7 @@
+results/
+.venv/
+dataR/
+
+.env
+dataR.json
+dataFromAIHUB.json
